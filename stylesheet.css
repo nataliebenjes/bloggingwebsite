@@ -1,7 +1,14 @@
 .summer {
     font-style: italic;
+    border: 20px solid black;
+    margin-bottom: 40%;
 }
 
 .aboutme {
     color:red
+}
+.border {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    border: 20px solid black;
 }
